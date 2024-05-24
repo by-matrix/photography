@@ -5,8 +5,7 @@
     background: #f5f5f5;
 }
 header {
-    background: #333;
-    color: white;
+    background: #0d1b2a;
     text-align: center;
     padding: 20px 0;
 }
@@ -34,44 +33,48 @@ header img {
     text-align: center;
     padding: 10px 0;
     margin: 0;
-    background: #333;
-    color: rgb(255, 255, 255);
+    background: #778da9;
+    color: rgb(0, 0, 0);
 }
 .contact-us {
-    background: #000000;
-    color: rgb(0, 0, 0);
-    padding: 40px 20px;
+    background: #778da9;
+    color: #0d1b2a;
+    padding: 60px 310px;
     text-align: center;
 }
 .contact-us form {
     display: inline-block;
-    width: 100%;
-    text-align: left;
+    width: 500px;
+    text-align: center;
+    background-color: #e5e5e5;
 
 }
 .contact-us label {
     display: block;
     margin-bottom: 20px;
+    background-color: #778da9;
 }
 .contact-us input, .contact-us textarea {
-    width: 300px;
-    padding: 10px;
+    width: 420px;
+    height: 100%;
+    padding: 20px;
     margin-bottom: 20px;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     background: #ffffff;
 }
 .contact-us button {
-    padding: 10px 20px;
+    padding: 15px 60px;
     background: #000000;
-    border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     color: #ffffff;
     font-size: 16px;
     cursor: pointer;
+    margin: 20px;
+    
 }
 .contact-us button:hover {
-    background: #c28c8c;
+    background: #415a77;
 }
 
 
